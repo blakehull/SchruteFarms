@@ -18,15 +18,15 @@ Schrute Farms offers the following features:
 
 To use Schrute Farms, follow these steps:
 
-2. Install the required dependencies. You can use `pip` to install the necessary packages:
+1. Install the required dependencies. You can use `pip` to install the necessary packages:
 
    ```shell
    pip install -r requirements.txt
    ```
 
-3. Connect the water sensors and water pumps to your system's GPIO pins. Make sure to refer to the documentation for your specific hardware setup.
+2. Connect the water sensors and water pumps to your system's GPIO pins. Make sure to refer to the documentation for your specific hardware setup.
 
-4. Configure the GPIO pins and thresholds for water sensors in the `config.yaml` file. You can specify the GPIO pins used for sensors and pumps, as well as the desired water level thresholds.
+3. Configure the GPIO pins and thresholds for water sensors in the `config.yaml` file. You can specify the GPIO pins used for sensors and pumps, as well as the desired water level thresholds.
 
 The software will start monitoring the water sensors and allow you to control the water pumps based on the specified thresholds.
 
