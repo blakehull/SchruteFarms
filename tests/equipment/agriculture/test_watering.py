@@ -4,7 +4,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from equipment.agriculture.watering import WateringFactory
-from equipment.helpers.sensors import SensorBoundary
+from equipment.monitors.sensors import SensorBoundary
 
 
 @pytest.mark.watering

@@ -1,6 +1,6 @@
 # Schrute Farms
 
-Schrute Farms is a farm technology software designed to facilitate farm management and automation. It provides integration with various sensors and devices to monitor and control farm-related parameters. Currently, it supports water sensors and water pumps through a generic GPIO interface. In the future, the software will also incorporate temperature sensors for plants and light sensors to monitor water levels and optimize plant growth.
+Schrute Farms is a goofy farm technology software designed to facilitate farm management and automation. It provides integration with various sensors and devices to monitor and control farm-related parameters. Currently, it supports water sensors and water pumps through a generic GPIO interface. In the future, the software will also incorporate temperature sensors for plants and light sensors to monitor water levels and optimize plant growth.
 
 ## Features
 
